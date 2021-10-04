@@ -1,0 +1,1 @@
+This project's goal is find the common multiple for given inputs by searching integer array given as a parameter in the method's signature. 
